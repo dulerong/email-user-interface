@@ -26,7 +26,7 @@ input:focus {
     background-color: gray;
 }
 .bg-lightgray{
-    background-color: #c6c5d1;
+    background-color: #e4e8ed;
 }
 .bg-lightergray{
     background-color: rgb(219, 214, 214);
@@ -38,10 +38,10 @@ input:focus {
     border: solid;
 }
 .border-1px {
-    border: solid 1px;
+    border: #c6cacf solid 1px;
 }
 .border-left-1px {
-    border-left: solid 1px;
+    border-left: #c6cacf solid 1px;
 }
 .border-radius-5px {
     border-radius: 5px;
@@ -53,11 +53,11 @@ input:focus {
     border-bottom: solid 1px
 }
 .border-b-gray-1px {
-    border-bottom: gray solid 1px;
+    border-bottom: #c6cacf solid 1px;
 }
 .border-y-gray-1px {
-    border-bottom: gray solid 1px;
-    border-top: gray solid 1px;
+    border-bottom: #c6cacf solid 1px;
+    border-top: #c6cacf solid 1px;
 }
 .border-none {
     border: none;
@@ -277,6 +277,12 @@ input:focus {
 .vertical-align {
     vertical-align: middle;
 }
+.width-300px {
+    width: 300px;
+}
+.width-400px {
+    width: 400px;
+}
 .width-15pct {
     width: 15%;
 }
@@ -338,7 +344,7 @@ input:focus {
     .App {
         width: 350px;
         position: relative;
-        border: solid 1px;
+        border: #c6cacf solid 1px;
         padding: 0px;
     }
     .App::-webkit-scrollbar {

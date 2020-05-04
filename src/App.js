@@ -114,6 +114,7 @@ class App extends React.Component {
   }
 
   render(){
+
     // DeskTop view switches to Mobile view at 950px screen width
     return (
       <div className="App">
