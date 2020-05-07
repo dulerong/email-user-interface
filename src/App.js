@@ -19,6 +19,7 @@ import ResultsPanel from './components/ResultsPanel.js'
 import ResultsPanelMobile from './components/ResultsPanelMobile.js'
 import EmailRow from './components/EmailRow.js'
 import EmailRowMobile from './components/EmailRowMobile.js'
+import request from './request.js'
 
 class App extends React.Component {
   constructor(props){
