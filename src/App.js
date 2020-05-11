@@ -21,6 +21,7 @@ import EmailRow from './components/EmailRow.js'
 import EmailRowMobile from './components/EmailRowMobile.js'
 import request from './request.js'
 
+
 class App extends React.Component {
   constructor(props){
     super(props)
@@ -115,7 +116,7 @@ class App extends React.Component {
   }
 
   render(){
-
+    request()
     // DeskTop view switches to Mobile view at 950px screen width
     return (
       <div className="App">
