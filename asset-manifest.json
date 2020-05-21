@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/email-user-interface.git/static/css/main.88fdeb1d.chunk.css",
-    "main.js": "/email-user-interface.git/static/js/main.b444a04f.chunk.js",
-    "main.js.map": "/email-user-interface.git/static/js/main.b444a04f.chunk.js.map",
-    "runtime-main.js": "/email-user-interface.git/static/js/runtime-main.576e8a0a.js",
-    "runtime-main.js.map": "/email-user-interface.git/static/js/runtime-main.576e8a0a.js.map",
-    "static/js/2.f50a3bdf.chunk.js": "/email-user-interface.git/static/js/2.f50a3bdf.chunk.js",
-    "static/js/2.f50a3bdf.chunk.js.map": "/email-user-interface.git/static/js/2.f50a3bdf.chunk.js.map",
-    "index.html": "/email-user-interface.git/index.html",
-    "precache-manifest.66d09f896f6eff04ee6a086e58af7553.js": "/email-user-interface.git/precache-manifest.66d09f896f6eff04ee6a086e58af7553.js",
-    "service-worker.js": "/email-user-interface.git/service-worker.js",
-    "static/css/main.88fdeb1d.chunk.css.map": "/email-user-interface.git/static/css/main.88fdeb1d.chunk.css.map",
-    "static/js/2.f50a3bdf.chunk.js.LICENSE.txt": "/email-user-interface.git/static/js/2.f50a3bdf.chunk.js.LICENSE.txt",
-    "static/media/icon_arrow01.svg": "/email-user-interface.git/static/media/icon_arrow01.c7f1a998.svg",
-    "static/media/icon_arrow02.svg": "/email-user-interface.git/static/media/icon_arrow02.a8497fb7.svg",
-    "static/media/icon_calender.svg": "/email-user-interface.git/static/media/icon_calender.e058455f.svg",
-    "static/media/icon_clip.svg": "/email-user-interface.git/static/media/icon_clip.fae31ac0.svg",
-    "static/media/icon_mail_sp.svg": "/email-user-interface.git/static/media/icon_mail_sp.b845eca9.svg",
-    "static/media/icon_search.svg": "/email-user-interface.git/static/media/icon_search.04846dcd.svg"
+    "main.css": "/email-user-interface/static/css/main.88fdeb1d.chunk.css",
+    "main.js": "/email-user-interface/static/js/main.b8fe77f5.chunk.js",
+    "main.js.map": "/email-user-interface/static/js/main.b8fe77f5.chunk.js.map",
+    "runtime-main.js": "/email-user-interface/static/js/runtime-main.1a76f4ab.js",
+    "runtime-main.js.map": "/email-user-interface/static/js/runtime-main.1a76f4ab.js.map",
+    "static/js/2.b6c5ac58.chunk.js": "/email-user-interface/static/js/2.b6c5ac58.chunk.js",
+    "static/js/2.b6c5ac58.chunk.js.map": "/email-user-interface/static/js/2.b6c5ac58.chunk.js.map",
+    "index.html": "/email-user-interface/index.html",
+    "precache-manifest.a94eacae92781c48add3458d213899cd.js": "/email-user-interface/precache-manifest.a94eacae92781c48add3458d213899cd.js",
+    "service-worker.js": "/email-user-interface/service-worker.js",
+    "static/css/main.88fdeb1d.chunk.css.map": "/email-user-interface/static/css/main.88fdeb1d.chunk.css.map",
+    "static/js/2.b6c5ac58.chunk.js.LICENSE.txt": "/email-user-interface/static/js/2.b6c5ac58.chunk.js.LICENSE.txt",
+    "static/media/icon_arrow01.svg": "/email-user-interface/static/media/icon_arrow01.c7f1a998.svg",
+    "static/media/icon_arrow02.svg": "/email-user-interface/static/media/icon_arrow02.a8497fb7.svg",
+    "static/media/icon_calender.svg": "/email-user-interface/static/media/icon_calender.e058455f.svg",
+    "static/media/icon_clip.svg": "/email-user-interface/static/media/icon_clip.fae31ac0.svg",
+    "static/media/icon_mail_sp.svg": "/email-user-interface/static/media/icon_mail_sp.b845eca9.svg",
+    "static/media/icon_search.svg": "/email-user-interface/static/media/icon_search.04846dcd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.576e8a0a.js",
-    "static/js/2.f50a3bdf.chunk.js",
+    "static/js/runtime-main.1a76f4ab.js",
+    "static/js/2.b6c5ac58.chunk.js",
     "static/css/main.88fdeb1d.chunk.css",
-    "static/js/main.b444a04f.chunk.js"
+    "static/js/main.b8fe77f5.chunk.js"
   ]
 }
