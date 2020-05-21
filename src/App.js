@@ -19,7 +19,6 @@ import ResultsPanel from './components/ResultsPanel.js'
 import ResultsPanelMobile from './components/ResultsPanelMobile.js'
 import EmailRow from './components/EmailRow.js'
 import EmailRowMobile from './components/EmailRowMobile.js'
-import request from './request.js'
 
 
 class App extends React.Component {
@@ -116,7 +115,7 @@ class App extends React.Component {
   }
 
   render(){
-    request()
+
     // DeskTop view switches to Mobile view at 950px screen width
     return (
       <div className="App">
